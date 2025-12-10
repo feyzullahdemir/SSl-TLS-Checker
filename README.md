@@ -1,4 +1,4 @@
-# SSl-TLS-Checker
+# SSl Self-TLS-Checker
 
 
 Dosyaya Çalıştırılabilir İzin Verme:
