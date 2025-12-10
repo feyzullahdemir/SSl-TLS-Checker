@@ -27,6 +27,7 @@ Eğer dosya başka bir dizindeyse, dosyanın tam yolunu kullanarak çalıştıra
 Eğer herhangi bir hata alırsanız veya komut çalışmazsa, chmod +x komutunun doğru çalışıp çalışmadığını veya dosyanın doğru dizinde olduğunu kontrol edebilirsiniz.
 
 Örnek Çıktı : 
+```javascript
 1.1.1.1 → SSL mevcut (Evet), Issuer: Some Issuer, TLS Versiyonu: TLSv1.2
 8.8.8.8 → SSL mevcut (Evet), Issuer: Some Issuer, TLS Versiyonu: TLSv1.3
 192.168.1.10 → SSL yok (Hayır), TLS versiyonu tespit edilemedi.
